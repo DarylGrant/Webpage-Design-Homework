@@ -1,0 +1,63 @@
+#head1
+{
+
+background-color: grey;
+width: 100%;
+padding: 32px;
+margin: auto;
+
+}
+
+li a
+{
+    color: white;
+}
+
+#logo
+{
+    font-family:sans-serif;
+}
+
+#links
+{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#p1
+{
+    font-family: sans-serif;
+}
+
+#p2
+{
+    font-family: sans-serif;
+}
+
+
+body
+{
+    background-color: black;
+    color: white;
+}
+
+#links2
+{
+
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#links3
+
+{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+body > footer
+{
+    background-color: grey;
+    padding: 32px;
+    width: 100%;
+}
